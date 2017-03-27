@@ -144,5 +144,5 @@ public class DoublyLinkedList {
         string.append(" ]");
         return string + " Size: " + size;
     }
-
+    
 }
