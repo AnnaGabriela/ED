@@ -1,8 +1,8 @@
 package DoublyLinkedList;
 
-class Node {
-    int value;
-    Node next, prev;
+public class Node {
+    public int value;
+    public Node next, prev;
     
     public Node (int number) {
         value = number;
